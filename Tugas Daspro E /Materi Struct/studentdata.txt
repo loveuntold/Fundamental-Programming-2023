@@ -1,0 +1,15 @@
+
+Displaying Data 1 
+Name: Bangchan
+Roll: 1
+Marks: 90.00
+
+Displaying Data 2 
+Name: Felix
+Roll: 2
+Marks: 85.00
+
+Displaying Data 3 
+Name: Jake
+Roll: 3
+Marks: 70.00
