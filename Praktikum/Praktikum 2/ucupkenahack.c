@@ -1,3 +1,5 @@
+// Link soal: https://drive.google.com/file/d/1qIrW9QjbCEDzk0HmYUYXyOWUjMULPv1T/view?usp=share_link
+
 #include <stdio.h>
 #include <string.h>
 
