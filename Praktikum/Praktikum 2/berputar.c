@@ -1,3 +1,5 @@
+// Link soal: https://drive.google.com/file/d/1e2d5J6vMw235fou8fPBjNuQyXAjy9UWg/view?usp=share_link
+
 #include <stdio.h>
 
 int main(){
