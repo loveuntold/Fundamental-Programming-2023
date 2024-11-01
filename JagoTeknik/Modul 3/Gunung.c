@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-// int hasil = 0;
-
 void Pola(int n){
     if(n == 1){
         printf("1\n");
