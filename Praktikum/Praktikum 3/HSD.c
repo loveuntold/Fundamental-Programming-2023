@@ -1,7 +1,9 @@
+// Link Soal: https://drive.google.com/file/d/1fPdl0FfbZWE595ITInMQ4Bd3-NX8c-QG/view?usp=sharing
+
 #include <stdio.h>
 
 unsigned long long int deekuh(int a, int b){ 
-     if (a - b <= 1) {
+     if(a - b <= 1){
         return a; 
     } 
     else if(a < 209 && b >= 1 && b < a && a > 1){

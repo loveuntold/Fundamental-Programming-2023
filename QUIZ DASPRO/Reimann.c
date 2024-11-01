@@ -1,3 +1,5 @@
+// Link soal: https://drive.google.com/file/d/1Idm422inUPZCiRSB2CVfglPhagZ_8Rn6/view?usp=sharing
+
 #include <stdio.h>
 
 int add(int x){
