@@ -13,17 +13,14 @@ unsigned long long int deekuh(int a, int b){
 
 int main(){
     int n, a, b;
-    long long int hasil[100];
+    long long int hasil;
 
     scanf("%d", &n);
 
     for(int i = 0; i < n; i++){
         scanf("%d %d", &a, &b);
-        hasil[i] = deekuh(a, b);
-
-    }
-    for(int i = 0; i < n; i++){
-        printf("%lld\n", hasil[i]);
+        hasil = deekuh(a, b);
+        printf("%lld\n", hasil);
 
     }
 

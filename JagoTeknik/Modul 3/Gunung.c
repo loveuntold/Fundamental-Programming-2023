@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int hasil = 0;
+// int hasil = 0;
 
 void Pola(int n){
     if(n == 1){
@@ -13,6 +13,10 @@ void Pola(int n){
     for(int i=1; i<=n; i++){
         printf("%d ", i);
     }
+
+    // for(int i=1; i<=n; i++){
+    //     printf("*");
+    // }
 
     printf("\n");
 
