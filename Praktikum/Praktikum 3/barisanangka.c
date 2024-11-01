@@ -28,7 +28,7 @@ int main(){
     scanf("%d", &n);
     
     for(int i = 1; i <= n; i++){
-        long long int hasil = sequence(n); 
+        long long int hasil = sequence(i); 
         printf("%lld ", hasil);
     }
 
